@@ -8,7 +8,7 @@ const questions = [
             "④ 산, 선 - 모음",
             "⑤ 밥, 법 - 모음"
         ],
-        answer: 0
+        answer: 3
     },
     {
         question: "2. 국어의 음운에 대한 설명으로 적절하지 않은 것은?",
@@ -30,7 +30,7 @@ const questions = [
             "④ 문장",
             "⑤ 형태소"
         ],
-        answer: 0
+        answer: 5
     },
     {
         question: "4. ‘돌’의 음운 중 하나를 골라 다른 음운으로 바꾼 단어가 아닌 것은?",
